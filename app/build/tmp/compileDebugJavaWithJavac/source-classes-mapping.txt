@@ -1,0 +1,33 @@
+com/example/movieapp/model/RecentlyViewed.java
+ com.example.movieapp.model.RecentlyViewed
+com/example/movieapp/adapter/RatedMoviesAdapter.java
+ com.example.movieapp.adapter.RatedMoviesAdapter
+ com.example.movieapp.adapter.RatedMoviesAdapter$RatedMovieViewHolder
+com/example/movieapp/adapter/CategoryAdapter.java
+ com.example.movieapp.adapter.CategoryAdapter
+ com.example.movieapp.adapter.CategoryAdapter$CategoryViewHolder
+com/example/movieapp/adapter/AllCategoryAdapter.java
+ com.example.movieapp.adapter.AllCategoryAdapter
+ com.example.movieapp.adapter.AllCategoryAdapter$AllCategoryViewHolder
+com/example/movieapp/AllCategory.java
+ com.example.movieapp.AllCategory
+ com.example.movieapp.AllCategory$1
+ com.example.movieapp.AllCategory$GridSpacingItemDecoration
+com/example/movieapp/model/AllCategoryModel.java
+ com.example.movieapp.model.AllCategoryModel
+com/example/movieapp/MainActivity.java
+ com.example.movieapp.MainActivity
+ com.example.movieapp.MainActivity$1
+com/example/movieapp/model/RatedMovies.java
+ com.example.movieapp.model.RatedMovies
+com/example/movieapp/BuildConfig.java
+ com.example.movieapp.BuildConfig
+com/example/movieapp/model/Category.java
+ com.example.movieapp.model.Category
+com/example/movieapp/adapter/RecentlyViewedAdapter.java
+ com.example.movieapp.adapter.RecentlyViewedAdapter
+ com.example.movieapp.adapter.RecentlyViewedAdapter$1
+ com.example.movieapp.adapter.RecentlyViewedAdapter$RecentlyViewedHolder
+com/example/movieapp/MovieDetail.java
+ com.example.movieapp.MovieDetail
+ com.example.movieapp.MovieDetail$1
